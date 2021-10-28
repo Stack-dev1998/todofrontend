@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+## before runing make sure to install dependency
 In the project directory, you can run:
 
 ### `npm start`
